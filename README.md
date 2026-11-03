@@ -4,6 +4,8 @@
 
 At the end of every final reply there's a **Listen** button. Press it, and a live voice agent reads the reply aloud. Audio starts within seconds and fills in while you listen. Code isn't read out character by character: the voice mentions it and moves on.
 
+<p align="center"><a href="assets/demo.mp4?raw=true"><img src="assets/demo.gif" width="720" alt="Demo: press Listen, audio starts while the rest is still being read ahead, then the saved file takes over"></a><br><sub>Press Listen → <i>Preparing</i> → playing while it reads ahead → saved. <a href="assets/demo.mp4?raw=true">▶ Watch with sound (MP4, 29 s)</a></sub></p>
+
 <table>
   <tr>
     <td><img src="assets/end-of-reply.png" width="390" alt="Listen and Copy at the end of a reply"></td>
