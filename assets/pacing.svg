@@ -1,0 +1,41 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 330' width='960' height='330' role='img' aria-label='Passages render ahead of playback'>
+<rect width='960' height='330' rx='16' fill='#12171e'/>
+<text x='24' y='40' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#eef2f7'>Every passage is ready before playback reaches it</text>
+<text x='936' y='40' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='13' fill='#9aa7b6' text-anchor='end'>passages of 90, 150, 280, 430, 720 bytes</text>
+<text x='24' y='91' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#9aa7b6'>Live session A</text>
+<rect x='150' y='72' width='782' height='28' rx='6' fill='#1c232d'/>
+<text x='24' y='135' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#9aa7b6'>Live session B</text>
+<rect x='150' y='116' width='782' height='28' rx='6' fill='#1c232d'/>
+<text x='24' y='179' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#9aa7b6'>Live session C</text>
+<rect x='150' y='160' width='782' height='28' rx='6' fill='#1c232d'/>
+<text x='24' y='245' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' font-weight='600' fill='#eef2f7'>Playback</text>
+<rect x='150' y='226' width='782' height='28' rx='6' fill='#1c232d'/>
+<rect x='162.7' y='76' width='38.0' height='20' rx='4' fill='#4a5868'/>
+<text x='170.7' y='90' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#eef2f7'>p0</text>
+<rect x='201.7' y='230' width='36.0' height='20' rx='4' fill='#a8dcee'/>
+<text x='208.7' y='244' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#12171e' font-weight='600'>p0</text>
+<line x1='200.7' y1='100' x2='200.7' y2='226' stroke='#a8dcee' stroke-width='1' stroke-dasharray='2 3' opacity='.7'/>
+<rect x='162.7' y='120' width='63.4' height='20' rx='4' fill='#4a5868'/>
+<text x='170.7' y='134' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#eef2f7'>p1</text>
+<rect x='239.8' y='230' width='61.4' height='20' rx='4' fill='#a8dcee'/>
+<text x='246.8' y='244' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#12171e' font-weight='600'>p1</text>
+<line x1='226.1' y1='144' x2='226.1' y2='226' stroke='#a8dcee' stroke-width='1' stroke-dasharray='2 3' opacity='.7'/>
+<rect x='162.7' y='164' width='118.4' height='20' rx='4' fill='#4a5868'/>
+<text x='170.7' y='178' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#eef2f7'>p2</text>
+<rect x='303.2' y='230' width='116.4' height='20' rx='4' fill='#a8dcee'/>
+<text x='310.2' y='244' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#12171e' font-weight='600'>p2</text>
+<line x1='281.0' y1='188' x2='281.0' y2='226' stroke='#a8dcee' stroke-width='1' stroke-dasharray='2 3' opacity='.7'/>
+<rect x='200.7' y='76' width='181.8' height='20' rx='4' fill='#4a5868'/>
+<text x='208.7' y='90' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#eef2f7'>p3</text>
+<rect x='421.5' y='230' width='179.8' height='20' rx='4' fill='#a8dcee'/>
+<text x='428.5' y='244' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#12171e' font-weight='600'>p3</text>
+<line x1='382.5' y1='100' x2='382.5' y2='226' stroke='#a8dcee' stroke-width='1' stroke-dasharray='2 3' opacity='.7'/>
+<rect x='226.1' y='120' width='304.3' height='20' rx='4' fill='#4a5868'/>
+<text x='234.1' y='134' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#eef2f7'>p4</text>
+<rect x='603.3' y='230' width='302.3' height='20' rx='4' fill='#a8dcee'/>
+<text x='610.3' y='244' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#12171e' font-weight='600'>p4</text>
+<line x1='530.4' y1='144' x2='530.4' y2='226' stroke='#a8dcee' stroke-width='1' stroke-dasharray='2 3' opacity='.7'/>
+<text x='200.7' y='274' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#a8dcee'>▲ first audio in ~8 s</text>
+<text x='932' y='274' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#9aa7b6' text-anchor='end'>0 waits · 119 s of speech</text>
+<text x='24' y='308' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='12' fill='#9aa7b6'>Dashed line = passage finished. It always lands before its turn to play, so the listener never hears a gap.</text>
+</svg>

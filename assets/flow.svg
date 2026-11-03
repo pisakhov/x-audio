@@ -1,0 +1,42 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 960 250' width='960' height='250' role='img' aria-label='Listen flow'>
+<rect width='960' height='250' rx='16' fill='#12171e'/>
+<text x='24' y='40' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#eef2f7'>Press Listen at the end of a reply</text>
+<text x='936' y='40' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='13' fill='#9aa7b6' text-anchor='end'>nothing is recorded ahead of time</text>
+<defs><marker id='a' viewBox='0 0 10 10' refX='8' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#a8dcee'/></marker></defs>
+<rect x='24.0' y='70' width='136' height='120' rx='12' fill='#1c232d' stroke='#33404f' stroke-width='1'/>
+<text x='38.0' y='98' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#a8dcee' font-weight='600'>01</text>
+<text x='38.0' y='122' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#eef2f7'>Final reply</text>
+<text x='38.0' y='146' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>Distilled or Original</text>
+<text x='38.0' y='166' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>what's on screen</text>
+<line x1='163.0' y1='130.0' x2='174.2' y2='130.0' stroke='#a8dcee' stroke-width='1.5' marker-end='url(#a)'/>
+<rect x='179.2' y='70' width='136' height='120' rx='12' fill='#1c232d' stroke='#33404f' stroke-width='1'/>
+<text x='193.2' y='98' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#a8dcee' font-weight='600'>02</text>
+<text x='193.2' y='122' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#eef2f7'>Spoken script</text>
+<text x='193.2' y='146' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>reads like a person</text>
+<text x='193.2' y='166' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>code → “I'll skip it”</text>
+<line x1='318.2' y1='130.0' x2='329.4' y2='130.0' stroke='#a8dcee' stroke-width='1.5' marker-end='url(#a)'/>
+<rect x='334.4' y='70' width='136' height='120' rx='12' fill='#1c232d' stroke='#a8dcee' stroke-width='1.5'/>
+<text x='348.4' y='98' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#a8dcee' font-weight='600'>03</text>
+<text x='348.4' y='122' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#eef2f7'>Passages</text>
+<text x='348.4' y='146' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>tiny first, then growing</text>
+<text x='348.4' y='166' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>cut at sentence ends</text>
+<line x1='473.4' y1='130.0' x2='484.6' y2='130.0' stroke='#a8dcee' stroke-width='1.5' marker-end='url(#a)'/>
+<rect x='489.6' y='70' width='136' height='120' rx='12' fill='#1c232d' stroke='#a8dcee' stroke-width='1.5'/>
+<text x='503.6' y='98' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#a8dcee' font-weight='600'>04</text>
+<text x='503.6' y='122' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#eef2f7'>Live voice</text>
+<text x='503.6' y='146' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>3 sessions in parallel</text>
+<text x='503.6' y='166' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>checked against text</text>
+<line x1='628.6' y1='130.0' x2='639.8' y2='130.0' stroke='#a8dcee' stroke-width='1.5' marker-end='url(#a)'/>
+<rect x='644.8' y='70' width='136' height='120' rx='12' fill='#1c232d' stroke='#33404f' stroke-width='1'/>
+<text x='658.8' y='98' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#a8dcee' font-weight='600'>05</text>
+<text x='658.8' y='122' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#eef2f7'>Player</text>
+<text x='658.8' y='146' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>starts on passage 1</text>
+<text x='658.8' y='166' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>fills in the rest</text>
+<line x1='783.8' y1='130.0' x2='795.0' y2='130.0' stroke='#a8dcee' stroke-width='1.5' marker-end='url(#a)'/>
+<rect x='800.0' y='70' width='136' height='120' rx='12' fill='#1c232d' stroke='#33404f' stroke-width='1'/>
+<text x='814.0' y='98' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11' fill='#a8dcee' font-weight='600'>06</text>
+<text x='814.0' y='122' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600' fill='#eef2f7'>Saved audio</text>
+<text x='814.0' y='146' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>one file, one timeline</text>
+<text x='814.0' y='166' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>refresh plays instantly</text>
+<text x='24' y='226' font-family='Inter,-apple-system,Segoe UI,Helvetica,Arial,sans-serif' font-size='11.5' fill='#9aa7b6'>Any live speech-to-speech model works: GPT Realtime / Live, Gemini Live, or the next one. No text-to-speech engine.</text>
+</svg>
